@@ -44,7 +44,6 @@ function filtrarPorAutor(){
             buscar.style.backgroundColor="#77dd77"; 
         } 
     }
-
 }
 
 // Evento que llama a la funcion de filtrar por autor
