@@ -46,7 +46,7 @@ function filtrarPorAutor(){
     }
 }
 
-// Evento que llama a la funcion de filtrar por autor
+// Evento que llama a la funcion de filtrar por un autor
 buscar.addEventListener("keyup", function(info){
     if(info.key == "Enter"){
         filtrarPorAutor()
